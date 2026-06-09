@@ -1,0 +1,30 @@
+newmtl pecera_base:mat_borean_starfish_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd borean_starfish_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks borean_starfish_01_specular.png
+Ns 18.00
+newmtl pecera_base:mat_dalaran_aquarium_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd dalaran_aquarium_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks dalaran_aquarium_01_specular.png
+Ns 18.00
+newmtl pecera_base:mat_dalarancounter02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd dalarancounter02.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks dalarancounter02_specular.png
+Ns 18.00

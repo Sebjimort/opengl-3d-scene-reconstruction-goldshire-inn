@@ -1,0 +1,80 @@
+newmtl comedor4:mat_10xp_candle_cyan01_5479851
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd 10xp_candle_cyan01_5479851.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 10xp_candle_cyan01_5479851_specular.png
+Ns 18.00
+newmtl comedor4:mat_deadmines_comp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadmines_comp.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadmines_comp_specular.png
+Ns 18.00
+newmtl comedor4:mat_deadmines_comp2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadmines_comp.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadmines_comp_specular.png
+Ns 18.00
+newmtl comedor4:mat_deadmines_comp4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadmines_comp.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadmines_comp_specular.png
+Ns 18.00
+newmtl comedor4:mat_mm_strmwnd_int_furniture_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_int_furniture_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_int_furniture_01_specular.png
+Ns 18.00
+newmtl comedor4:mat_mug_004
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mug_004.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mug_004_specular2.png
+Ns 18.00
+newmtl comedor4:mat_mug_006
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mug_004.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mug_004_specular.png
+Ns 18.00
+newmtl comedor4:mat_mug_008
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mug_004.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mug_004_specular.png
+Ns 18.00

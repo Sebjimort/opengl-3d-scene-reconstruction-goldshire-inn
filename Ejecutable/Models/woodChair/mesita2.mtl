@@ -1,0 +1,20 @@
+newmtl mesita2:mat_candelabra01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd candelabra01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_candelabra01.png
+Ns 18.00
+newmtl mesita2:mat_mm_beam_side__01x
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_beam_side__01x.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_beam_side__01x_specular_(1).png
+Ns 18.00

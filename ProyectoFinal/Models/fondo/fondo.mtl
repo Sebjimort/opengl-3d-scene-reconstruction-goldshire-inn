@@ -1,0 +1,104 @@
+newmtl fondo1:mat_beerkegcombo
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd beerkegcombo.png
+Ni 1.00
+newmtl fondo1:mat_beerkegcombo6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd beerkegcombo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_beerkegcombo.png
+Ns 18.00
+newmtl fondo1:mat_beerkegcombo9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd beerkegcombo.png
+Ni 1.00
+newmtl fondo1:mat_beerkegcombo11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd beerkegcombo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_beerkegcombo.png
+Ns 18.00
+newmtl fondo1:mat_bottlegreen
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd bottlegreen.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks bottlegreen_specular.png
+Ns 18.00
+newmtl fondo1:mat_bottlegreen2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd bottlegreen.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks bottlegreen_specular.png
+Ns 18.00
+newmtl fondo1:mat_candelabra01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd candelabra01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_candelabra01.png
+Ns 18.00
+newmtl fondo1:mat_candelabra03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd candelabra01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_candelabra01.png
+Ns 18.00
+newmtl fondo1:mat_mug_004
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mug_004.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mug_004_specular.png
+Ns 18.00
+newmtl fondo1:mat_mug_006
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mug_004.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mug_004_specular.png
+Ns 18.00
+newmtl fondo1:mat_mug_008
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mug_004.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mug_004_specular.png
+Ns 18.00

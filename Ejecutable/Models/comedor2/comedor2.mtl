@@ -1,0 +1,200 @@
+newmtl comedor2:mat_bottlegreen
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd bottlegreen.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks bottlegreen_specular.png
+Ns 18.00
+newmtl comedor2:mat_bottlegreen2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd bottlegreen.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks bottlegreen_specular.png
+Ns 18.00
+newmtl comedor2:mat_candelabra01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd candelabra01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_candelabra01.png
+Ns 18.00
+newmtl comedor2:mat_candelabra03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd candelabra01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_candelabra01.png
+Ns 18.00
+newmtl comedor2:mat_deadmines_comp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadmines_comp.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadmines_comp_specular.png
+Ns 18.00
+newmtl comedor2:mat_deadminesstein01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadminesstein01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadminesstein01_specular.png
+Ns 18.00
+newmtl comedor2:mat_deadminesstein03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadminesstein01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadminesstein01_specular.png
+Ns 18.00
+newmtl comedor2:mat_deadminesstein05
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadminesstein01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadminesstein01_specular.png
+Ns 18.00
+newmtl comedor2:mat_deadminesstein07
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadminesstein01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadminesstein01_specular.png
+Ns 18.00
+newmtl comedor2:mat_heathstone_gameboard_sw
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd heathstone_gameboard_sw.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks heathstone_gameboard_sw_specular.png
+Ns 18.00
+newmtl comedor2:mat_mm_strmwnd_int_furniture_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_int_furniture_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_int_furniture_01_specular.png
+Ns 18.00
+newmtl comedor2:mat_mm_strmwnd_int_furniture_03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_int_furniture_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_int_furniture_01_specular.png
+Ns 18.00
+newmtl comedor2:mat_winebarrel_side
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd winebarrel_side.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks winebarrel_side_specular.png
+Ns 18.00
+newmtl comedor2:mat_winebarrel_side2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd winebarrel_side.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks winebarrel_side_specular.png
+Ns 18.00
+newmtl comedor2:mat_woodchair01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl comedor2:mat_woodchair03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl comedor2:mat_woodchair05
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl comedor2:mat_woodchair07
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl comedor2:mat_woodchair09
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl comedor2:mat_woodchair11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00

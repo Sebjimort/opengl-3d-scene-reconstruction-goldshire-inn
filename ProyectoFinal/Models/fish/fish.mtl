@@ -1,0 +1,10 @@
+newmtl fish:mat_fishblue
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd fishblue.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks fishblue_specular.png
+Ns 18.00

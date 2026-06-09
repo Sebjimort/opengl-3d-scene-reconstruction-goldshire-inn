@@ -1,0 +1,20 @@
+newmtl campfire:mat_12ph_kultiras_fireplace01_6755825
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd 12ph_kultiras_fireplace01_6755825.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 12ph_kultiras_fireplace01_6755825_specular.png
+Ns 18.00
+newmtl campfire:mat_12ph_kultiras_fireplace01_6755827
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd 12ph_kultiras_fireplace01_6755825.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 12ph_kultiras_fireplace01_6755825_specular.png
+Ns 18.00

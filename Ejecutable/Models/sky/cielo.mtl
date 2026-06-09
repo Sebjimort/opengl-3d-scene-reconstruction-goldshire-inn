@@ -1,0 +1,14 @@
+newmtl cielo:mat_earth
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd earth.png
+Ni 1.00
+newmtl cielo:mat_sky1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd sky1.png
+Ni 1.00

@@ -1,0 +1,525 @@
+newmtl barrel_stack:mat_beerkegcombo
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd beerkegcombo.png
+Ni 1.00
+newmtl barrel_stack:mat_beerkegcombo2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd beerkegcombo.png
+Ni 1.00
+newmtl barrel_stack:mat_beerkegcombo4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd beerkegcombo.png
+Ni 1.00
+newmtl barrel_stack:mat_beerkegcombo6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd beerkegcombo.png
+Ni 1.00
+newmtl candelabras:mat_candelabra01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd candelabra01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_candelabra01.png
+Ns 18.00
+newmtl candelabras1:mat_candelabra01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd candelabra01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_candelabra01.png
+Ns 18.00
+newmtl chandelier1:mat_mm_beam_side__01x
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_beam_side__01x.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_beam_side__01x_specular.png
+Ns 18.00
+newmtl chandelier1:mat_mm_candle_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_candle_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_candle_01_specular.png
+Ns 18.00
+newmtl chandelier1:mat_mm_chain_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_chain_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_chain_01_specular.png
+Ns 18.00
+newmtl chandelier1:mat_mm_chandelier_side_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_chandelier_side_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_chandelier_side_01_specular.png
+Ns 18.00
+newmtl chandelier3:mat_mm_beam_side__01x
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_beam_side__01x.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_beam_side__01x_specular.png
+Ns 18.00
+newmtl chandelier3:mat_mm_candle_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_candle_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_candle_01_specular.png
+Ns 18.00
+newmtl chandelier3:mat_mm_chain_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_chain_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_chain_01_specular.png
+Ns 18.00
+newmtl chandelier3:mat_mm_chandelier_side_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_chandelier_side_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_chandelier_side_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_cask_side_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_cask_side_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_cask_side_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_cellar_wall_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_cellar_wall_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_cellar_wall_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_cork_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_cork_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_cork_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_elwynn_wnd_ext__01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_elwynn_wnd_ext__01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_elwynn_wnd_ext__01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_elwynn_wnd_int__01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_elwynn_wnd_int__01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_elwynn_wnd_int__01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_fireplace_front
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_fireplace_front.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_fireplace_front_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_inn_combo_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_inn_combo_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_inn_combo_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_minerail_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_minerail_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_minerail_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_redbrick_03x
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_redbrick_03x.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_redbrick_03x_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_stone_tabletop_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_stone_tabletop_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_stone_tabletop_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_street_03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_street_03.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_street_03_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_strmwnd_int_ceiling_02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_int_ceiling_02.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_int_ceiling_02_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_strmwnd_int_floor_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_int_floor_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_int_floor_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_strmwnd_int_furniture_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_int_furniture_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_int_furniture_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_strmwnd_int_trim_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_int_trim_01.png
+Ni 1.00
+newmtl goldshireinn:mat_mm_strmwnd_int_wall_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_int_wall_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_int_wall_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_strmwnd_roof_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_roof_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_roof_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_strmwnd_supports_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_supports_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_supports_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_strmwnd_trim_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_trim_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_trim_01_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_strmwnd_wall_02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_wall_02.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_wall_02_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_strmwnd_wall_03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_wall_03.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_wall_03_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_strmwnd_wall_05
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_wall_04.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_wall_04_specular.png
+Ns 18.00
+newmtl goldshireinn:mat_mm_woodroof_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_woodroof_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_woodroof_01_specular.png
+Ns 18.00
+newmtl inntable:mat_mm_strmwnd_int_furniture_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mm_strmwnd_int_furniture_01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mm_strmwnd_int_furniture_01_specular.png
+Ns 18.00
+newmtl jar02:mat_deadmines_comp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadmines_comp.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadmines_comp_specular.png
+Ns 18.00
+newmtl jar03:mat_deadmines_comp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadmines_comp.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadmines_comp_specular.png
+Ns 18.00
+newmtl jar04:mat_deadmines_comp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd deadmines_comp.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks deadmines_comp_specular.png
+Ns 18.00
+newmtl mug02:mat_mug_004
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mug_004.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mug_004_specular.png
+Ns 18.00
+newmtl mug03:mat_mug_004
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mug_004.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mug_004_specular.png
+Ns 18.00
+newmtl mug04:mat_mug_004
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd mug_004.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks mug_004_specular2.png
+Ns 18.00
+newmtl woodChair:mat_woodchair01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl woodChair1:mat_woodchair01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl woodChair2:mat_woodchair01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl woodChair3:mat_woodchair01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl woodChair4:mat_woodchair01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl woodChair5:mat_woodchair01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl woodChair6:mat_woodchair01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl woodChair7:mat_woodchair01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl woodChair8:mat_woodchair01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd woodchair01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks specular_woodchair01.png
+Ns 18.00
+newmtl xp_candle_cyan01:mat_10xp_candle_cyan01_5479851
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd 10xp_candle_cyan01_5479851.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 10xp_candle_cyan01_5479851_specular.png
+Ns 18.00

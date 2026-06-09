@@ -1,0 +1,14 @@
+newmtl piso_interior:tex_31_49
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd tex_31_49.png
+Ni 1.00
+newmtl piso_interior:tex_32_49
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd tex_32_49.png
+Ni 1.00
