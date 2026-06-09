@@ -10,3 +10,7 @@ Release/
 *.pdb
 *.obj
 *.log
+
+# Excepciones: Permitir absolutamente todo dentro de External Libraries
+!External Libraries/
+!External Libraries/**/*
